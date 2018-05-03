@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="591d1bbc-7e34-4648-b8b0-7f074e9a9560" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/asyncscrapy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ssh_jumper.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssh_jumper.py" afterDir="false" />
       <change beforePath="G:/pyproject/crawler/.idea/workspace.xml" beforeDir="false" afterPath="G:/pyproject/crawler/.idea/workspace.xml" afterDir="false" />
       <change beforePath="G:/pyproject/crawler/test.py" beforeDir="false" afterPath="G:/pyproject/crawler/test.py" afterDir="false" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="ssh_jumper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ssh_jumper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="772">
+              <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -279,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ssh_jumper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="772">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
         </state>
       </provider>
     </entry>

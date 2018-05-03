@@ -64,3 +64,5 @@ class SSHConnection(object):
             self._transport.close()
         if self._client:
             self._client.close()
+
+###################
