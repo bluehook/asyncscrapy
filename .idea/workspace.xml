@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/ssh_jumper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="772">
-              <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -278,7 +278,7 @@
     <entry file="file://$PROJECT_DIR$/ssh_jumper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="772">
-          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
