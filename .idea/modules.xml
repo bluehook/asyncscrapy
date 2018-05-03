@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/asyncscrapy.iml" filepath="$PROJECT_DIR$/.idea/asyncscrapy.iml" />
+      <module fileurl="file://G:/pyproject/crawler/.idea/crawler.iml" filepath="G:/pyproject/crawler/.idea/crawler.iml" />
+    </modules>
+  </component>
+</project>
